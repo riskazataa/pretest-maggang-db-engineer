@@ -25,7 +25,7 @@ Dalam suatu schenario ada requirement membuat aplikasi e-commerse seperti Tokope
 4. Setelah di checkout, masuk ke list transaction
     ![list-transaction](imgs/list-transaction.png)
 5. Kita juga bisa liat detail transactionya
-    ![detail-transaction]
+    ![detail-transaction](imgs/detail-transaction.png)
 
 Kemudian temen-temen buat design database berdasarkan method yang temen-temen gunakan misalnya menggunakan ERD atau Object UML, 
 
