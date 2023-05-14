@@ -1,0 +1,18 @@
+1. Apa yang anda ketahui tentang Rest API?
+ REST API adalah cara bagi aplikasi untuk berkomunikasi dan berbagi data dengan aplikasi lain melalui aturan yang sudah ditentukan menggunakan protokol HTTP. Cara ini memungkinkan interaksi yang fleksibel antara aplikasi yang berbeda dan memungkinkan pengembang untuk membuat aplikasi yang saling terhubung dan berkolaborasi.
+
+2. Apa yang anda ketahui tentang Server side and Client side processing?
+client side salah satu jenis bahasa pemrograman web yang proses pengolahannya dilakukan di sisi client. contohnya web browser di dalam web browser sudah ada library yang bisa menerjemahkan semua perintah dihalaman web yang menggunakan client side. sedangkan server side pengolahannya di lakukan di dalam server. sehingga ketika pengguna mengirimkan permintaan ke server, server akan mengambil data yang diperlukan, melakukan pemrosesan, dan menghasilkan respon yang siap untuk dikirimkan kembali ke klien. Respon tersebut biasanya berupa HTML, JSON, atau XML yang akan ditampilkan atau digunakan oleh klien.
+
+3.Apa yang anda ketahui tentang Design pattern Dependency Injection?
+Dependency Injection (DI) adalah sebuah desain pattern dimana suatu objek menerima objek atau fungsi lain yang dibutuhkan oleh objek tersebut. 
+
+4.Apa yang anda ketahui tentang Typescript dan Angular framework?
+TypeScript adalah bahasa pemrograman open source yang dibangun di atas JavaScript. sedangkan angular adalah framework yang di gunakan untuk membuat aplikasi web kurang lebih seperti kerangka sebelum kita membuat sesuatu.
+
+5.Apa yang anda ketahui tentang Microfrontend?
+Micro FrontEnd adalah Arsitektur pada bagian FrontEnd aplikasi yang berpusat pada independensi suatu fitur dengan fitur lainnya.
+
+
+
+
