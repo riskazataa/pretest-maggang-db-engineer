@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class DaftarprodukComponent {
 
+  // vector untuk merubah gambar ketika di hover
   url: string = "../assets/p1.png";
   imageChange(event: any){
       this.url = event.target.src;
