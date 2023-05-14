@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ProdukComponent } from 'src/ecommerce/produk/produk.component';
 import { RouterModule, Routes } from '@angular/router';
+import { HeaderComponent } from 'src/ecommerce/header/header/header.component';
 
 // const routes: Routes = [
 //   {
@@ -16,6 +17,7 @@ import { RouterModule, Routes } from '@angular/router';
 @NgModule({
   declarations: [
     AppComponent,
+    HeaderComponent
     
   ],
   imports: [
